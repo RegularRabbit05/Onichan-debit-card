@@ -85,7 +85,7 @@
     </ItemGroup>
     <ItemGroup>
       <Content Include="icon.ico" />
-      <Content Include="logo.png" />
+      <EmbeddedResource Include="Resources\logo.png" />
     </ItemGroup>
     <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

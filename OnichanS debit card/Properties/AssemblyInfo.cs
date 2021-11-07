@@ -7,12 +7,12 @@ using System.Windows;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("OnichanS_debit_card")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("Onichan_debit_card")]
+[assembly: AssemblyDescription("A really bad joke program")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("OnichanS_debit_card")]
-[assembly: AssemblyCopyright("Copyright ©  2021")]
+[assembly: AssemblyCompany("Reg")]
+[assembly: AssemblyProduct("Onichan_debit_card")]
+[assembly: AssemblyCopyright("Copyright Reg©  2021")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -51,5 +51,5 @@ using System.Windows;
 // You can specify all the values or you can default the Build and Revision Numbers
 // by using the '*' as shown below:
 // [assembly: AssemblyVersion("1.0.*")]
-[assembly: AssemblyVersion("1.0.0.0")]
-[assembly: AssemblyFileVersion("1.0.0.0")]
+[assembly: AssemblyVersion("1.0.0.69")]
+[assembly: AssemblyFileVersion("1.0.0.69")]

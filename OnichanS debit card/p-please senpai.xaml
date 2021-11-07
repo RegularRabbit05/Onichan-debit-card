@@ -3,12 +3,13 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:r="clr-namespace:OnichanS_debit_card.Properties"
         xmlns:local="clr-namespace:OnichanS_debit_card"
         mc:Ignorable="d"
         ResizeMode="CanMinimize"
         Title="p-please senpai ///" Height="450" Width="650">
     <Grid Background="#eceeee">
-        <Image Height="350" HorizontalAlignment="Left" Source="logo.png" Margin="10,0,0,0"  />
+        <Image Height="350" HorizontalAlignment="Left" Source="Resources/logo.png" Margin="10,0,0,0"  />
         
         <TextBlock Text="w-would you let me see&#x0d;&#x0a;your card details p-please?" FontFamily="Segoe UI" FontSize="25"
                    HorizontalAlignment="Left" Margin="240, 20, 0, 0" FontWeight="Medium"/>
