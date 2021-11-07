@@ -14,7 +14,7 @@
         <TextBlock Text="w-would you let me see&#x0d;&#x0a;your card details p-please?" FontFamily="Segoe UI" FontSize="25"
                    HorizontalAlignment="Left" Margin="240, 20, 0, 0" FontWeight="Medium"/>
         
-        <TextBlock Text="pass me your card number p-onegai~" FontFamily="Segoe UI" FontSize="12"
+        <TextBlock Text="pass me your card number o-onegai~" FontFamily="Segoe UI" FontSize="12"
                    HorizontalAlignment="Left" Margin="240, 95, 0, 0"/>
         
         <TextBox HorizontalAlignment="Left" VerticalAlignment="Top" Name="CardNumber" Width="300" Height="25"
