@@ -3,7 +3,7 @@
 <br>
 
 # Original
-![Original](https://media.discordapp.net/attachments/748984983225499738/907024063229210624/unknown.png)
+![Original](https://github.com/RegularRabbit05/Onichan-debit-card/assets/69511985/f7e215e2-05e4-40f5-895d-6030de7e1347)
 
 # Final Result
-![Final Result](https://media.discordapp.net/attachments/748984983225499738/907023825768693791/unknown.png)
+![Final Result](https://github.com/RegularRabbit05/Onichan-debit-card/assets/69511985/44e04a79-1181-49bb-92f7-6550d1a29d37)
